@@ -1,2 +1,0 @@
-# zpallday
-Created with CodeSandbox
